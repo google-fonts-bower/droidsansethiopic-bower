@@ -1,0 +1,17 @@
+{
+    "name": "droidsansethiopic-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Monotype"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/droidsansethiopic-bower.git"
+    },
+    "description": "Droid Sans Ethiopic font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
